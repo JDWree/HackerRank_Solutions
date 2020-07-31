@@ -1,6 +1,6 @@
 # Task:
 # The probability that a machine produces a defective product is 1/3.
-# What is the probability that the  defect is found during the first 5 inspections?
+# What is the probability that the 1st defect is found during the first 5 inspections?
 
 n, d = list(map(int, input().rstrip().split()))
 p = n/d
