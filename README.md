@@ -1,2 +1,2 @@
 # HackerRank_Solutions
-Solutions of challenges and tutorials on HackerRank (https://www.hackerrank.com/)
+My solutions of challenges and tutorials on HackerRank (https://www.hackerrank.com/)
